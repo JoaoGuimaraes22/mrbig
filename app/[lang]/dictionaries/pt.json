@@ -5,7 +5,7 @@
     "description": "5.000m² de treino, 400+ máquinas, 50.000kg de discos. Musculação, powerlifting, kickboxing, MMA. O maior ginásio da Europa em Carcavelos. Avaliação 4.7★.",
     "phone": "+351 214 538 721",
     "email": "ambdesportivos@gmail.com",
-    "address": "Rua Fernando Lopes Graça, 401A, Urb. Checlos, 2775-571 Carcavelos",
+    "address": "Rua Fernando Lopes Graça, 401A, R. José de Castro 20, 2775-571 Carcavelos",
     "type": "SportsActivityLocation",
     "keywords": [
       "ginásio carcavelos",
@@ -74,7 +74,7 @@
     "plates": "50.000kg",
     "platesLabel": "de discos de peso",
     "rating": "4.7★",
-    "ratingLabel": "778 avaliações Google"
+    "ratingLabel": "780 avaliações Google"
   },
   "about": {
     "sectionLabel": "Sobre Nós",
@@ -219,26 +219,26 @@
   "reviews": {
     "sectionLabel": "Avaliações",
     "headline": "O que dizem os atletas.",
-    "sub": "4.7 estrelas. 778 avaliações. A reputação fala por si.",
+    "sub": "4.7 estrelas. 780 avaliações. A reputação fala por si.",
     "googleLabel": "Avaliações Google",
-    "review1Text": "Ótimo, com uma enorme variedade de máquinas para todos os tipos de exercícios, principalmente musculação. A oferta de Personal Trainers também é diversificada. Quarta academia em que me inscrevi, a primeira em que consegui manter o treino por mais de um mês. Não poderia estar mais feliz com a escolha.",
+    "review1Text": "Ótimo, com uma enorme variedade de máquinas para todos os tipos de exercícios, principalmente musculação, que é a especialidade da academia. Também possui uma área de cardio que está sendo ampliada. A oferta de Personal Trainers também é diversificada e estou muito feliz com meus resultados. Quarta academia em que me inscrevi, a primeira em que consegui manter o treino por mais de um mês (quase seis)! Não poderia estar mais feliz com a escolha.",
     "review1Author": "Pedro Marques",
     "review1Date": "Crítica Google",
     "review2Text": "Academia incrível para musculação, levantamento de peso e powerlifting! Têm praticamente todos os aparelhos que se pode imaginar. Tinham até barras, pesos e plataformas de competição para powerlifting, o que foi fantástico! Recomendo muito!",
     "review2Author": "Luka Smyth",
     "review2Date": "Crítica Google",
-    "review3Text": "Fiquei impressionado com esta academia! Não fazia ideia de que era a MAIOR DA EUROPA até perceber assim que entrei. O passe diário por €10 é muito justo. Nunca vi tantos equipamentos. Funcionários acolhedores. Equipamentos incrivelmente limpos.",
+    "review3Text": "Fiquei impressionado com esta academia! Não fazia ideia de que era a MAIOR DA EUROPA até perceber isso assim que entrei. O passe diário por €10 é muito justo considerando tudo o que a academia oferece. Eu teria pago €20 sem problemas. Nunca vi tantos equipamentos, e em tantas áreas diferentes. Funcionários acolhedores. Equipamentos incrivelmente limpos. Será difícil encontrar uma academia tão boa quanto esta.",
     "review3Author": "Conor",
     "review3Date": "Crítica Google",
-    "review4Text": "Este ginásio faz jus ao nome de 'lugar sagrado'. Atletas treinam aqui antes de virem a Portugal para competições de fisiculturismo. Altamente recomendado!",
-    "review4Author": "Valeri Frizler",
+    "review4Text": "Tive a oportunidade de treinar lá várias vezes em 2019 por uma pequena taxa, pois estava em Portugal a trabalho por uma semana. É um estúdio para entusiastas do fisiculturismo como eu; me senti à vontade lá e o suporte foi excelente. O lugar ideal para fãs de fisiculturismo em Portugal. E lembre-se sempre: \"Isto não é um clube de saúde!\"",
+    "review4Author": "Dimitri Kalaev",
     "review4Date": "Crítica Google"
   },
   "faq": {
     "sectionLabel": "FAQ",
     "headline": "Perguntas frequentes.",
     "q1": "Qual o horário de funcionamento?",
-    "a1": "Contacta-nos directamente para o horário actualizado: +351 214 538 721.",
+    "a1": "Segunda a sexta: 08:30–22:00. Sábado: 09:00–19:00. Domingo: 09:00–13:00.",
     "q2": "Existe contrato de permanência?",
     "a2": "Temos planos mensais, trimestrais e anuais. Fala connosco para conhecer as condições actuais.",
     "q3": "Posso fazer uma aula experimental?",
@@ -246,7 +246,7 @@
     "q4": "O KO Team aceita principiantes?",
     "a4": "Sim. O KO Team tem turmas para todos os níveis, desde iniciantes a competidores. Liga para +351 963 919 855.",
     "q5": "Onde fica o Mr. Big Evolution?",
-    "a5": "Rua Fernando Lopes Graça, 401A, Urb. Checlos, 2775-571 Carcavelos. Fácil acesso pela A5 e de comboio (linha de Cascais).",
+    "a5": "Rua Fernando Lopes Graça, 401A, R. José de Castro 20, 2775-571 Carcavelos. Fácil acesso pela A5 e de comboio (linha de Cascais).",
     "q6": "Têm parque de estacionamento?",
     "a6": "Sim, existe estacionamento disponível nas imediações do ginásio."
   },
@@ -261,7 +261,7 @@
     "emailLabel": "Email",
     "email": "ambdesportivos@gmail.com",
     "addressLabel": "Morada",
-    "address": "Rua Fernando Lopes Graça, 401A\nUrb. Checlos\n2775-571 Carcavelos",
+    "address": "Rua Fernando Lopes Graça, 401A\nR. José de Castro 20\n2775-571 Carcavelos",
     "instagramLabel": "Instagram",
     "instagram": "https://www.instagram.com/mrbigevolution/",
     "facebookLabel": "Facebook",
@@ -271,7 +271,7 @@
   "footer": {
     "tagline": "Não estou a treinar num health club.",
     "copyright": "© 2026 Mr. Big Evolution. Todos os direitos reservados.",
-    "address": "Rua Fernando Lopes Graça, 401A, Carcavelos",
+    "address": "Rua Fernando Lopes Graça, 401A, R. José de Castro 20, Carcavelos",
     "navLabel": "Navegação",
     "links": {
       "about": "Sobre",

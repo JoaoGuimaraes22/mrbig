@@ -107,33 +107,3 @@
    5/5
    há 7 meses
    Eu adoro essa academia! Ela tem tudo o que você precisa para levantamento de peso, mesmo sendo uma academia de musculação, e o lugar é lindo! Minha única reclamação é a falta de ar-condicionado quando está calor, o que é chato 😱, mas ainda assim dou 5 estrelas por todo o resto!…
-
-18. Gensy
-   2 críticas
-   4/5
-   há 7 meses
-   Os equipamentos são bons e o espaço é amplo, porém, mesmo no inverno, a academia É MUITO QUENTE. Eles não investem em ventiladores melhores nem os ligam na potência máxima, tornando os treinos de perna aqui insuportáveis.
-
-19. rodrigo magalhães
-   Guia local · 15 críticas · 2 fotos
-   5/5
-   há 6 meses
-   Muito bom o ginásio, há máquinas pra tudo, incrivelmente organizado, único contra é o calor no verão, de resto tudo perfeito
-
-20. Antonio Davide Calì
-   Guia local · 27 críticas · 3 fotos
-   5/5
-   há um ano
-   Sem dúvida, uma das melhores academias que já frequentei. É um espaço incrivelmente grande, com diversas salas e aparelhos. O passe diário tem um preço extremamente razoável, se não barato, considerando tudo o que a academia oferece. Recomendo demais!
-
-21. Elkie Chiu
-   Guia local · 69 críticas · 203 fotos
-   5/5
-   há 8 meses
-   Uma das melhores academias que já frequentei! Grande variedade de equipamentos!!
-
-22. Valeri Frizler
-   Guia local · 121 críticas · 155 fotos
-   5/5
-   há 3 anos
-   Este ginásio faz jus ao nome de "lugar sagrado". Atletas treinam aqui antes de virem a Portugal para competições de fisiculturismo. Altamente recomendado!
