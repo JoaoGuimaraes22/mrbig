@@ -22,10 +22,10 @@ type Props = {
 };
 
 const categoryImages = [
-  "/facilities/musculacao.jpg",
-  "/facilities/crosstraining.jpg",
-  "/facilities/combate.jpg",
-  "/facilities/danca.jpg",
+  "/facilities/musculacao.webp",
+  "/facilities/crosstraining.webp",
+  "/facilities/combate.webp",
+  "/facilities/danca.webp",
 ];
 
 export default function Modalities({ dict }: Props) {

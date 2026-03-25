@@ -56,10 +56,10 @@ export default function Reviews({ dict }: Props) {
   }, []);
 
   const reviews = [
-    { text: dict.review1Text, author: dict.review1Author, date: dict.review1Date, img: "/reviews/review1.jpg" },
-    { text: dict.review2Text, author: dict.review2Author, date: dict.review2Date, img: "/reviews/review2.jpg" },
-    { text: dict.review3Text, author: dict.review3Author, date: dict.review3Date, img: "/reviews/review3.jpg" },
-    { text: dict.review4Text, author: dict.review4Author, date: dict.review4Date, img: "/reviews/review4.jpg" },
+    { text: dict.review1Text, author: dict.review1Author, date: dict.review1Date, img: "/reviews/review1.webp" },
+    { text: dict.review2Text, author: dict.review2Author, date: dict.review2Date, img: "/reviews/review2.webp" },
+    { text: dict.review3Text, author: dict.review3Author, date: dict.review3Date, img: "/reviews/review3.webp" },
+    { text: dict.review4Text, author: dict.review4Author, date: dict.review4Date, img: "/reviews/review4.webp" },
   ];
 
   return (

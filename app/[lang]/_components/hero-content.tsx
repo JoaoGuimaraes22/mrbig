@@ -57,7 +57,7 @@ export default function HeroContent({ dict }: Props) {
         style={{ inset: "-20% 0", willChange: "transform" }}
       >
         <Image
-          src="/hero/hero.jpg"
+          src="/hero/hero.webp"
           alt="Mr. Big Evolution gym floor"
           fill
           priority

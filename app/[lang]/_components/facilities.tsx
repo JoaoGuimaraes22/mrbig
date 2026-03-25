@@ -26,12 +26,12 @@ type Props = {
 };
 
 const zoneImages = [
-  "/facilities/musculacao.jpg",
-  "/facilities/crosstraining.jpg",
-  "/facilities/combate.jpg",
-  "/facilities/danca.jpg",
-  "/facilities/studios.jpg",
-  "/facilities/indoor.jpg",
+  "/facilities/musculacao.webp",
+  "/facilities/crosstraining.webp",
+  "/facilities/combate.webp",
+  "/facilities/danca.webp",
+  "/facilities/studios.webp",
+  "/facilities/indoor.webp",
 ];
 
 const zoneIcons = ["⚡", "🔥", "🥊", "💃", "🏋️", "🏃"];
