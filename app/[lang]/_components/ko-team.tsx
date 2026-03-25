@@ -93,7 +93,7 @@ export default function KOTeam({ dict }: Props) {
         style={{ inset: "-15% 0", willChange: "transform" }}
       >
         <Image
-          src="/koteam.jpg"
+          src="/koteam/koteam.jpg"
           alt="KO Team — combat sports training"
           fill
           sizes="100vw"

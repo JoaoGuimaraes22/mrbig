@@ -1,7 +1,12 @@
 {
   "metadata": {
+    "name": "Mr. Big Evolution",
     "title": "Mr. Big Evolution — Europe's Largest Gym | Carcavelos",
     "description": "5,000m² of training space, 400+ machines, 50,000kg of weight plates. Bodybuilding, powerlifting, kickboxing, MMA. Europe's largest gym in Carcavelos. Rated 4.7★.",
+    "phone": "+351 214 538 721",
+    "email": "ambdesportivos@gmail.com",
+    "address": "Rua Fernando Lopes Graça, 401A, Urb. Checlos, 2775-571 Carcavelos",
+    "type": "SportsActivityLocation",
     "keywords": [
       "gym carcavelos",
       "largest gym europe",
@@ -19,8 +24,8 @@
     ]
   },
   "home": {
-    "title": "Welcome",
-    "description": "This is the starting point of your project. Edit this page to get started."
+    "title": "Mr. Big Evolution",
+    "description": "Europe's largest gym. 5,000m² of training space in Carcavelos."
   },
   "navbar": {
     "brand": "Mr. Big Evolution",
@@ -161,7 +166,7 @@
     "philosophy": "Discipline, humility, sportsmanship, winning attitude, courage, intelligence, team spirit, determination, self-confidence, and fighting for goals.",
     "ctaLabel": "Contact KO Team",
     "phone": "+351 963 919 855",
-    "website": "koteam.pt"
+    "website": "https://koteam.pt"
   },
   "schedule": {
     "sectionLabel": "Schedule",
@@ -215,18 +220,18 @@
     "headline": "What athletes say.",
     "sub": "4.7 stars. 778 reviews. The reputation speaks for itself.",
     "googleLabel": "Google Reviews",
-    "review1Text": "Best gym I've ever trained at. The amount of equipment is impressive — I never wait for anything. Truly for serious trainers.",
-    "review1Author": "Miguel F.",
-    "review1Date": "2 months ago",
-    "review2Text": "First time here and my jaw dropped. 5,000m² is insane. Top-tier equipment, friendly staff, always clean.",
-    "review2Author": "Ana S.",
-    "review2Date": "3 months ago",
-    "review3Text": "I've been powerlifting for 10 years and this is the only gym in Portugal with everything I need. Olympic bars, platforms, full plate sets.",
-    "review3Author": "Rui M.",
-    "review3Date": "1 month ago",
-    "review4Text": "KO Team kickboxing classes are excellent. Very experienced coaches and a professional atmosphere.",
-    "review4Author": "Catarina L.",
-    "review4Date": "4 months ago"
+    "review1Text": "Huge variety of machines for all types of exercises, especially weightlifting. Also has a cardio area being expanded. The Personal Trainers are diverse — this is the first gym where I've kept training for more than a month. Couldn't be happier with my choice.",
+    "review1Author": "Pedro Marques",
+    "review1Date": "Google Review",
+    "review2Text": "Incredible gym for bodybuilding, weightlifting and powerlifting! They have practically every machine you can imagine. They even had competition bars, weights and platforms for powerlifting, which was fantastic! Highly recommend!",
+    "review2Author": "Luka Smyth",
+    "review2Date": "Google Review",
+    "review3Text": "I was impressed with this gym! Had no idea it was the LARGEST IN EUROPE until I walked in. The day pass at €10 is very fair considering everything the gym offers. I would have paid €20 without hesitation. Incredibly clean equipment. Welcoming staff.",
+    "review3Author": "Conor",
+    "review3Date": "Google Review",
+    "review4Text": "This gym lives up to its name as a 'holy place'. Athletes train here before coming to Portugal for bodybuilding competitions. Highly recommended!",
+    "review4Author": "Valeri Frizler",
+    "review4Date": "Google Review"
   },
   "faq": {
     "sectionLabel": "FAQ",
@@ -257,14 +262,14 @@
     "addressLabel": "Address",
     "address": "Rua Fernando Lopes Graça, 401A\nUrb. Checlos\n2775-571 Carcavelos",
     "instagramLabel": "Instagram",
-    "instagram": "@mrbigevolution",
+    "instagram": "https://www.instagram.com/mrbigevolution/",
     "facebookLabel": "Facebook",
-    "facebook": "/mrbigevolution",
+    "facebook": "https://www.facebook.com/mrbigevolution",
     "directionsLabel": "Get Directions"
   },
   "footer": {
     "tagline": "I'm not training in a health club.",
-    "copyright": "© 2025 Mr. Big Evolution. All rights reserved.",
+    "copyright": "© 2026 Mr. Big Evolution. All rights reserved.",
     "address": "Rua Fernando Lopes Graça, 401A, Carcavelos",
     "navLabel": "Navigation",
     "links": {

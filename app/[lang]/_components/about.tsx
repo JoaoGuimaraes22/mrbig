@@ -79,7 +79,7 @@ export default function About({ dict }: Props) {
         style={{ inset: "-5% 0", willChange: "transform" }}
       >
         <Image
-          src="/about.jpg"
+          src="/about/about.jpg"
           alt="Mr. Big Evolution — gym floor"
           fill
           sizes="100vw"

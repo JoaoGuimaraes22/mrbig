@@ -1,7 +1,12 @@
 {
   "metadata": {
+    "name": "Mr. Big Evolution",
     "title": "Mr. Big Evolution — Maior Ginásio da Europa | Carcavelos",
     "description": "5.000m² de treino, 400+ máquinas, 50.000kg de discos. Musculação, powerlifting, kickboxing, MMA. O maior ginásio da Europa em Carcavelos. Avaliação 4.7★.",
+    "phone": "+351 214 538 721",
+    "email": "ambdesportivos@gmail.com",
+    "address": "Rua Fernando Lopes Graça, 401A, Urb. Checlos, 2775-571 Carcavelos",
+    "type": "SportsActivityLocation",
     "keywords": [
       "ginásio carcavelos",
       "maior ginásio europa",
@@ -20,8 +25,8 @@
     ]
   },
   "home": {
-    "title": "Bem-vindo",
-    "description": "Este e o ponto de partida do seu projeto. Edite esta pagina para comecar."
+    "title": "Mr. Big Evolution",
+    "description": "O maior ginásio da Europa. 5.000m² de espaço de treino em Carcavelos."
   },
   "navbar": {
     "brand": "Mr. Big Evolution",
@@ -162,7 +167,7 @@
     "philosophy": "Disciplina, humildade, desportivismo, atitude vencedora, coragem, inteligência, espírito de equipa, determinação, auto-confiança e luta por objectivos.",
     "ctaLabel": "Contactar KO Team",
     "phone": "+351 963 919 855",
-    "website": "koteam.pt"
+    "website": "https://koteam.pt"
   },
   "schedule": {
     "sectionLabel": "Horário",
@@ -216,18 +221,18 @@
     "headline": "O que dizem os atletas.",
     "sub": "4.7 estrelas. 778 avaliações. A reputação fala por si.",
     "googleLabel": "Avaliações Google",
-    "review1Text": "O melhor ginásio que já frequentei. A quantidade de equipamento é impressionante — nunca espero por nada. É mesmo para quem treina a sério.",
-    "review1Author": "Miguel F.",
-    "review1Date": "há 2 meses",
-    "review2Text": "Vim cá pela primeira vez e fiquei de boca aberta. 5.000m² é uma loucura. Equipamento de topo, staff simpático e sempre limpo.",
-    "review2Author": "Ana S.",
-    "review2Date": "há 3 meses",
-    "review3Text": "Faço powerlifting há 10 anos e este é o único ginásio em Portugal com tudo o que preciso. Barras olímpicas, plataformas, discos a toda a largura.",
-    "review3Author": "Rui M.",
-    "review3Date": "há 1 mês",
-    "review4Text": "As aulas de kickboxing do KO Team são excelentes. Treinadores com muita experiência e ambiente muito profissional.",
-    "review4Author": "Catarina L.",
-    "review4Date": "há 4 meses"
+    "review1Text": "Ótimo, com uma enorme variedade de máquinas para todos os tipos de exercícios, principalmente musculação. A oferta de Personal Trainers também é diversificada. Quarta academia em que me inscrevi, a primeira em que consegui manter o treino por mais de um mês. Não poderia estar mais feliz com a escolha.",
+    "review1Author": "Pedro Marques",
+    "review1Date": "Crítica Google",
+    "review2Text": "Academia incrível para musculação, levantamento de peso e powerlifting! Têm praticamente todos os aparelhos que se pode imaginar. Tinham até barras, pesos e plataformas de competição para powerlifting, o que foi fantástico! Recomendo muito!",
+    "review2Author": "Luka Smyth",
+    "review2Date": "Crítica Google",
+    "review3Text": "Fiquei impressionado com esta academia! Não fazia ideia de que era a MAIOR DA EUROPA até perceber assim que entrei. O passe diário por €10 é muito justo. Nunca vi tantos equipamentos. Funcionários acolhedores. Equipamentos incrivelmente limpos.",
+    "review3Author": "Conor",
+    "review3Date": "Crítica Google",
+    "review4Text": "Este ginásio faz jus ao nome de 'lugar sagrado'. Atletas treinam aqui antes de virem a Portugal para competições de fisiculturismo. Altamente recomendado!",
+    "review4Author": "Valeri Frizler",
+    "review4Date": "Crítica Google"
   },
   "faq": {
     "sectionLabel": "FAQ",
@@ -258,14 +263,14 @@
     "addressLabel": "Morada",
     "address": "Rua Fernando Lopes Graça, 401A\nUrb. Checlos\n2775-571 Carcavelos",
     "instagramLabel": "Instagram",
-    "instagram": "@mrbigevolution",
+    "instagram": "https://www.instagram.com/mrbigevolution/",
     "facebookLabel": "Facebook",
-    "facebook": "/mrbigevolution",
+    "facebook": "https://www.facebook.com/mrbigevolution",
     "directionsLabel": "Como Chegar"
   },
   "footer": {
     "tagline": "Não estou a treinar num health club.",
-    "copyright": "© 2025 Mr. Big Evolution. Todos os direitos reservados.",
+    "copyright": "© 2026 Mr. Big Evolution. Todos os direitos reservados.",
     "address": "Rua Fernando Lopes Graça, 401A, Carcavelos",
     "navLabel": "Navegação",
     "links": {
