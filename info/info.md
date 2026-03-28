@@ -5,7 +5,7 @@
 | Field               | Details              |
 | ------------------- | -------------------- |
 | **Name**            | Mr. Big Evolution    |
-| **Category**        |                      |
+| **Category**        | Gym / Fitness Center |
 | **Rating**          | 4.7 ⭐ (780 reviews) |
 | **Price Range**     |                      |
 | **Cuisines / Type** |                      |
