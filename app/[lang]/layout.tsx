@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { i18n } from "@/i18n-config";
 import { Analytics } from "@vercel/analytics/next";
 import { SpeedInsights } from "@vercel/speed-insights/next";
+import DemoBanner from "./_components/demo-banner";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
 
@@ -56,8 +57,8 @@ export async function generateMetadata({
       languages: Object.fromEntries(i18n.locales.map((l) => [l, `${SITE_URL}/${l}`])),
     },
     robots: {
-      index: true,
-      follow: true,
+      index: false,
+      follow: false,
     },
   };
 }
@@ -99,6 +100,7 @@ export default async function RootLayout({
         {children}
         <Analytics />
         <SpeedInsights />
+        <DemoBanner lang={lang} />
       </body>
     </html>
   );
